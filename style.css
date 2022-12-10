@@ -51,6 +51,10 @@ body{
 .nav-link {
 	color: indigo;
 }
+.navactive{
+	font-size:25px;
+	font-family:Montserrat;
+}
 
 
 
